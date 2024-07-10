@@ -1,6 +1,6 @@
 //let companyName = 'Scuber';
 
-const companyName = "Scumber";
+const companyName = "Scuber";
 
 let mostProfitableNeighborhood = "Chelsea";
 
